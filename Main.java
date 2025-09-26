@@ -1,3 +1,5 @@
+#ЛАБ. РАБОТА 2 РЕШЕШИЕ НА JAVA ЗАДАЧА 2
+
 class ListNode {
     int val;
     ListNode next;
