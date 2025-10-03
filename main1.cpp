@@ -1,3 +1,6 @@
+#ЛАБ. РАБОТА 2 РЕШЕШИЕ НА C++ ЗАДАЧА 1
+    
+
 #include <iostream>
 
 struct Node {
